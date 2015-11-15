@@ -1,0 +1,1 @@
+I am in Milwaukee, using roaming cell phone data. Google thinks I am in Calgary. Geolocation by IP address is the bunk.
